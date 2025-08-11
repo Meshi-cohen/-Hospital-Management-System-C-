@@ -1,5 +1,7 @@
 🏥 Hospital Management System
+
 📌 Overview
+
 The Hospital Management System is a C++ console-based application built in Visual Studio to simulate and manage hospital operations.
 It handles departments, staff (doctors, surgeons, nurses), patients, visits, researchers, and research articles, using Object-Oriented Programming (OOP) principles.
 
@@ -16,6 +18,7 @@ Searching and printing detailed hospital data.
 Changing a Doctor into a Surgeon dynamically.
 
 🎯 Features
+
 🏢 Department Management
 Add new departments.
 
