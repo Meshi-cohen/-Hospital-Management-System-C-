@@ -85,21 +85,37 @@ bash
 Copy code
 Hospital.sln                      # Visual Studio Solution
 Hospital/
+
  ├── main.cpp                      # Entry point & menu logic
+ 
  ├── hospital.h / hospital.cpp     # Core hospital management
+ 
  ├── department.h / department.cpp # Department logic
+ 
  ├── employee.h / employee.cpp     # Abstract employee class
+ 
  ├── doctor.h / doctor.cpp         # Doctor class
+ 
  ├── nurse.h / nurse.cpp           # Nurse class
+ 
  ├── surgeon.h / surgeon.cpp       # Surgeon class
+ 
  ├── doctorResearcher.h / doctorResearcher.cpp # Dual role
+ 
  ├── researcher.h / researcher.cpp # Researcher logic
+ 
  ├── researchCenter.h / researchCenter.cpp     # Research center
+ 
  ├── article.h / article.cpp       # Articles
+ 
  ├── date.h / date.cpp             # Date handling
+ 
  ├── person.h / person.cpp         # Base person class
+ 
  ├── paitent.h / paitent.cpp       # Patient class
+ 
  ├── visit.h / visit.cpp           # Visit management
+ 
 🚀 Getting Started
 1️⃣ Requirements
 Microsoft Visual Studio 2019/2022
@@ -136,5 +152,7 @@ Menu
 15. Exit
 
 👩‍💻 Authors
+
 Omer Vetcher
+
 Meshi Cohen
