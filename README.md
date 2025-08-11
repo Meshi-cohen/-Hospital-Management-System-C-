@@ -1,6 +1,6 @@
-🏥 Hospital Management System
+##🏥 Hospital Management System
 
-📌 Overview
+#📌 Overview
 
 The Hospital Management System is a C++ console-based application built in Visual Studio to simulate and manage hospital operations.
 It handles departments, staff (doctors, surgeons, nurses), patients, visits, researchers, and research articles, using Object-Oriented Programming (OOP) principles.
@@ -17,7 +17,7 @@ Searching and printing detailed hospital data.
 
 Changing a Doctor into a Surgeon dynamically.
 
-🎯 Features
+#🎯 Features
 
 🏢 Department Management
 Add new departments.
@@ -26,7 +26,7 @@ Assign doctors, surgeons, and nurses to specific departments.
 
 View patients assigned to a department.
 
-👩‍⚕️ Staff Management
+#👩‍⚕️ Staff Management
 Add:
 
 Doctors (with medical expertise)
@@ -41,12 +41,12 @@ Search staff by badge ID.
 
 Change a Doctor into a Surgeon.
 
-🧍 Patient Management
+#🧍 Patient Management
 Add new patients (name, birth date, gender, ID).
 
 Search patients by ID.
 
-📅 Visit Management
+#📅 Visit Management
 Schedule visits:
 
 Link a patient to a department.
@@ -57,7 +57,7 @@ Record purpose and date.
 
 View patient visit history.
 
-🔬 Research Management
+#🔬 Research Management
 Add Researchers and Doctor-Researchers.
 
 Assign Articles to researchers.
@@ -66,7 +66,7 @@ Print all articles of a specific researcher.
 
 Compare two researchers by number of articles.
 
-🛠 Technologies Used
+#🛠 Technologies Used
 Language: C++17
 
 IDE: Microsoft Visual Studio 2019/2022
@@ -83,7 +83,7 @@ Operator Overloading (<<, >)
 
 STL: vector for dynamic storage and management
 
-📂 Project Structure
+#📂 Project Structure
 bash
 Copy code
 Hospital.sln                      # Visual Studio Solution
@@ -119,7 +119,7 @@ Hospital/
  
  ├── visit.h / visit.cpp           # Visit management
  
-🚀 Getting Started
+#🚀 Getting Started
 1️⃣ Requirements
 Microsoft Visual Studio 2019/2022
 
@@ -134,7 +134,7 @@ Build (Ctrl + Shift + B).
 
 Run (F5).
 
-📖 Example Menu
+#📖 Example Menu
 pgsql
 Copy code
 Menu
@@ -154,7 +154,7 @@ Menu
 14. Change Doctor to Surgeon
 15. Exit
 
-👩‍💻 Authors
+#👩‍💻 Authors
 
 Omer Vetcher
 
